@@ -26,7 +26,7 @@ Use the `init.exe` executable by dragging the `.vp` file to convert `.vp` files 
 get random
 
 function greet(name as string) {
-  log "Hello, ${name}!"
+  print.log("Hello, ${name}!")
 }
 
 number equals 5
